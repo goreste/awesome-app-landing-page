@@ -42,9 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+marketing_header: ThisCrush - Cute messages. # Optional
+marketing_desc: Get started today with your own ThisCrush to start receiving cute messages from friends, anonymously. It's a great way to find out if anyone like-likes you or just get some nice messages after a long day. Click Get started to create your new account and let the cuteness begin!
 #
 # Social Links
 #
@@ -93,8 +92,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: ThisCrush # Optional - Enter your site title
+description: Cute messages # Optional - Enter your site description
 
 #
 # Google Analytics

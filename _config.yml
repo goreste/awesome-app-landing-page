@@ -126,3 +126,5 @@ sass:
 exclude:
   - LICENSE
   - README.md
+
+theme: jekyll-theme-cayman
